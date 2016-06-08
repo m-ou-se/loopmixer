@@ -11,7 +11,7 @@ at the Delft University of Technology.
 
 ## Demonstration
 
-For a demonstration, see: http://loopmixer.googlecode.com/files/demo-v2-0-0.jar
+For a demonstration, see: https://github.com/m-ou-se/loopmixer/releases/download/v2.1.0/demo-v2-0-0.jar
 
 A screenshot of the demo:
 
