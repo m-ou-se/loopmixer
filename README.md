@@ -15,7 +15,7 @@ For a demonstration, see: http://loopmixer.googlecode.com/files/demo-v2-0-0.jar
 
 A screenshot of the demo:
 
-[https://m-ou.se/images/loopmixer.png]
+  ![screenshot](https://m-ou-se.github.io/loopmixer/loopmixer-demo.png)
 
 ## Documentation
 
