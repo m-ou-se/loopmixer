@@ -1,8 +1,8 @@
 # LoopMixer
 
 The LoopMixer library allows you to easily mix audio loops together in
-[Processing http://processing.org/] (Java),
-using [Minim http://code.compartmental.net/tools/minim/].
+[Processing](http://processing.org/) (Java),
+using [Minim](http://code.compartmental.net/tools/minim/).
 It takes care of slowing down/speeding up the loops to match the global rhythm,
 which can be changed at runtime.
 
