@@ -20,3 +20,5 @@ A screenshot of the demo:
 ## Documentation
 
 The documentation can be found on Github: https://m-ou-se.github.io/loopmixer
+
+For a quick introduction to the library, see [introduction.md](introduction.md).
